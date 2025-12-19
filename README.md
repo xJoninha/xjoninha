@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jonas</h1>
-<h3 align="center">Web Full Stack student at DigitalHouse</h3>
 
 - 💻 FullStack Developer (Node.js and React).
 
 - 📫 How to reach me **jonasjfs15@gmail.com**
-
-- ⚡ Random fact **I like to play pc games and musical instruments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
